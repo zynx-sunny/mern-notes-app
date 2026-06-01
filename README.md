@@ -52,6 +52,21 @@ npm run dev
 
 ![Dashboard](Dashboard.png)
 
+# MERN Notes App
+
+A full-stack notes application built using the MERN stack.
+
+## Live Demo
+
+https://mern-notes-app-rp45.onrender.com
+
+## Features
+
+- User Authentication (JWT)
+- Create Notes
+- Search Notes
+- Responsive UI
+
 ## Author
 
 Sunny Kumar
