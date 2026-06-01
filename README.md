@@ -42,6 +42,17 @@ npm run dev
 - Search functionality
 - Dark mode
 
+## Screenshots
+
+### Login Page
+
+![Login Page](./Screenshot%20From%202026-06-01%2015-45-57.png)
+
+### Dashboard
+
+![Dashboard](./Screenshot%20From%202026-06-01%2016-06-08.png)
+
+
 ## Author
 
 Sunny Kumar
