@@ -46,11 +46,11 @@ npm run dev
 
 ### Login Page
 
-![Login Page](./Screenshot%20From%202026-06-01%2015-45-57.png)
+![Login Page](login-page.png)
 
 ### Dashboard
 
-![Dashboard](./Screenshot%20From%202026-06-01%2016-06-08.png)
+![Dashboard](dashboard.png)
 
 
 ## Author
